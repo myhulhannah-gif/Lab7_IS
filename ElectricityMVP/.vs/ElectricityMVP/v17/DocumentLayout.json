@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|c:\\users\\vika\\source\\repos\\electricitymvp\\electricitymvp\\presenters\\electricitypresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|solutionrelative:electricitymvp\\presenters\\electricitypresenter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|c:\\users\\vika\\source\\repos\\electricitymvp\\electricitymvp\\views\\ielectricityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|solutionrelative:electricitymvp\\views\\ielectricityview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|c:\\users\\vika\\source\\repos\\electricitymvp\\electricitymvp\\models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|solutionrelative:electricitymvp\\models\\electricitybill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|c:\\users\\vika\\source\\repos\\electricitymvp\\electricitymvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|solutionrelative:electricitymvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|c:\\users\\vika\\source\\repos\\electricitymvp\\electricitymvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|solutionrelative:electricitymvp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|c:\\users\\vika\\source\\repos\\electricitymvp\\electricitymvp\\models\\ielectricitymodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EAE2377-F759-4071-8C70-D16FBF68AD6E}|ElectricityMVP\\ElectricityMVP.csproj|solutionrelative:electricitymvp\\models\\ielectricitymodel.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Form1.cs",
+              "RelativeDocumentMoniker": "ElectricityMVP\\Form1.cs",
+              "ToolTip": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Form1.cs",
+              "RelativeToolTip": "ElectricityMVP\\Form1.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:23:48.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElectricityPresenter.cs",
+              "DocumentMoniker": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Presenters\\ElectricityPresenter.cs",
+              "RelativeDocumentMoniker": "ElectricityMVP\\Presenters\\ElectricityPresenter.cs",
+              "ToolTip": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Presenters\\ElectricityPresenter.cs",
+              "RelativeToolTip": "ElectricityMVP\\Presenters\\ElectricityPresenter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:23:25.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IElectricityView.cs",
+              "DocumentMoniker": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Views\\IElectricityView.cs",
+              "RelativeDocumentMoniker": "ElectricityMVP\\Views\\IElectricityView.cs",
+              "ToolTip": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Views\\IElectricityView.cs",
+              "RelativeToolTip": "ElectricityMVP\\Views\\IElectricityView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:22:56.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ElectricityBill.cs",
+              "DocumentMoniker": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Models\\ElectricityBill.cs",
+              "RelativeDocumentMoniker": "ElectricityMVP\\Models\\ElectricityBill.cs",
+              "ToolTip": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Models\\ElectricityBill.cs",
+              "RelativeToolTip": "ElectricityMVP\\Models\\ElectricityBill.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:21:54.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IElectricityModel.cs.cs",
+              "DocumentMoniker": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Models\\IElectricityModel.cs.cs",
+              "RelativeDocumentMoniker": "ElectricityMVP\\Models\\IElectricityModel.cs.cs",
+              "ToolTip": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Models\\IElectricityModel.cs.cs",
+              "RelativeToolTip": "ElectricityMVP\\Models\\IElectricityModel.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:21:11.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "DocumentMoniker": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Form1.cs",
+              "RelativeDocumentMoniker": "ElectricityMVP\\Form1.cs",
+              "ToolTip": "C:\\Users\\VIKA\\source\\repos\\ElectricityMVP\\ElectricityMVP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "ElectricityMVP\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-07T18:11:43.438Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

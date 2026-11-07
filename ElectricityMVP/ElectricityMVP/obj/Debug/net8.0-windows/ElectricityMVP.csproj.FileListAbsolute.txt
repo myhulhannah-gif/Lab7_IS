@@ -1,0 +1,16 @@
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\bin\Debug\net8.0-windows\ElectricityMVP.exe
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\bin\Debug\net8.0-windows\ElectricityMVP.deps.json
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\bin\Debug\net8.0-windows\ElectricityMVP.runtimeconfig.json
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\bin\Debug\net8.0-windows\ElectricityMVP.dll
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\bin\Debug\net8.0-windows\ElectricityMVP.pdb
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ElectricityMVP.Form1.resources
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ElectricityMVP.csproj.GenerateResource.cache
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ElectricityMVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ElectricityMVP.AssemblyInfoInputs.cache
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ElectricityMVP.AssemblyInfo.cs
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ElectricityMVP.csproj.CoreCompileInputs.cache
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ElectricityMVP.dll
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\refint\ElectricityMVP.dll
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ElectricityMVP.pdb
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ElectricityMVP.genruntimeconfig.cache
+C:\Users\VIKA\source\repos\ElectricityMVP\ElectricityMVP\obj\Debug\net8.0-windows\ref\ElectricityMVP.dll

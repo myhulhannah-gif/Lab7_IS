@@ -1,0 +1,19 @@
+﻿<Window x:Class="ElectricityMVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Витрати на електроенергію" Height="350" Width="400"
+        Language="uk-UA">
+    <StackPanel Margin="20">
+        <Label Content="Потужність, кВт"/>
+        <TextBox Text="{Binding Power, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+
+        <Label Content="Час використання, год"/>
+        <TextBox Text="{Binding Hours, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+
+        <Label Content="Тариф, грн за кВт·год"/>
+        <TextBox Text="{Binding Tariff, UpdateSourceTrigger=PropertyChanged}" Margin="0,0,0,10"/>
+
+        <Label Content="Вартість, грн"/>
+        <TextBox Text="{Binding Cost, Mode=OneWay, StringFormat=F2}" IsReadOnly="True"/>
+    </StackPanel>
+</Window>

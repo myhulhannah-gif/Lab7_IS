@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ElectricityMVP/1.0.0": {
+        "runtime": {
+          "ElectricityMVP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ElectricityMVP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
